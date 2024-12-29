@@ -1,0 +1,9 @@
+.left {
+    position: absolute;
+    left:15px;
+}
+
+.right {
+    position: absolute;
+    left: 400px;
+}
